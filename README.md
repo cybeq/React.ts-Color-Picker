@@ -4,7 +4,7 @@
 
 # Color Picker
 
-### My first :rocket: React.TS application
+### :rocket: React.TS application
 
 -----------------------------------
 
